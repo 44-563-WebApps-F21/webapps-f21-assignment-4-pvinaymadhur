@@ -64,3 +64,29 @@ h5.KELVIL{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px; 
 }
+
+table.Hollywood{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 60%;
+    padding: 20px;
+    margin: 40px;
+}
+
+table.Hollywood tr:nth-child(odd){
+    background-color:palegreen;
+}
+
+table.Hollywood td, table.Hollywood th {
+    border: 1px solid burlywood;
+    padding: 10px;
+    text-align: center;
+    color:darkslateblue;
+}
+
+table.Hollywood th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color:darkred;
+    color: white;
+}
