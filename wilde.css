@@ -1,0 +1,66 @@
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: black;
+}
+
+p.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15;
+    color: black;
+}
+
+p.SD1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  color:black;
+  background-color:blanchedalmond ;  
+}
+
+p.SD1:hover{    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color:royalblue;
+    background-color:thistle;  
+  }
+
+h5.LADYCAROLINE{
+    color:teal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h5.GERALD{
+    color:tomato;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h5.HESTER{
+    color:navy;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+h5.LADYHUNSTANTON{
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+h5.SIRJOHN{
+    color:chocolate;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+h5.MRSALLONBY{
+    color:darkmagenta;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+h5.LADYSTUTFIELD{
+    color:darkorange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
+h5.KELVIL{
+    color:firebrick;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px; 
+}
