@@ -130,3 +130,22 @@ h5.KELVIL:hover{
     border-style:double;
     color:black;
 }
+.navigation{
+    list-style-type:none;
+    width:100%;
+    overflow:auto;
+    background-color:silver;
+}
+  
+.navigation a {
+    float:left;
+    color:black;
+    font-size: 20px;
+    display:table;
+    padding:8px;
+}
+  
+.navigation a:hover {  
+    background-color:burlywood;
+    color:darkred;
+}
