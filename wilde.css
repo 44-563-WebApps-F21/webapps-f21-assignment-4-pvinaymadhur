@@ -134,7 +134,7 @@ h5.KELVIL:hover{
     list-style-type:none;
     width:100%;
     overflow:auto;
-    background-color:silver;
+    background-color:thistle;
 }
   
 .navigation a {
@@ -146,6 +146,6 @@ h5.KELVIL:hover{
 }
   
 .navigation a:hover {  
-    background-color:burlywood;
+    background-color:silver;
     color:darkred;
 }
