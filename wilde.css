@@ -90,3 +90,43 @@ table.Hollywood th {
     background-color:darkred;
     color: white;
 }
+h5.LADYCAROLINE:hover{
+    text-shadow: 2px 3px 4px chocolate;
+    border-style:solid;
+    color:darkslategrey;
+}
+h5.GERALD:hover{
+    text-shadow: 2px 3px 4px cornflowerblue;
+    border-style:double;
+    color:olive;
+}
+h5.HESTER:hover{
+    text-shadow: 2px 3px 4px cadetblue;
+    border-style:ridge;
+    color: darksalmon;
+}
+h5.LADYHUNSTANTON:hover{
+    text-shadow: 2px 3px 4px black;
+    border-style:solid;
+    color:silver; 
+}
+h5.SIRJOHN:hover{
+    text-shadow: 2px 3px 6px darkgrey;
+    border-style:double;
+    color:darkblue;
+}
+h5.MRSALLONBY:hover{
+    text-shadow: 2px 3px 4px darkgreen;
+    border-style:ridge;
+    color:beige;
+}
+h5.LADYSTUTFIELD:hover{
+    text-shadow: 2px 3px 4px darkorange;
+    border-style:solid;
+    color:darkslategrey; 
+}
+h5.KELVIL:hover{
+    text-shadow: 2px 3px 4px gold;
+    border-style:double;
+    color:black;
+}
